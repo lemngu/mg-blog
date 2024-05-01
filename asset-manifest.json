@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mg-blog/static/css/main.7a1fbf82.css",
+    "main.js": "/mg-blog/static/js/main.b4b72ae8.js",
+    "static/media/backImage.png": "/mg-blog/static/media/backImage.589b3b6890d74856f1f5.png",
+    "static/media/backLayer.png": "/mg-blog/static/media/backLayer.ddc92d044cb0a6d65947.png",
+    "index.html": "/mg-blog/index.html",
+    "main.7a1fbf82.css.map": "/mg-blog/static/css/main.7a1fbf82.css.map",
+    "main.b4b72ae8.js.map": "/mg-blog/static/js/main.b4b72ae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1fbf82.css",
+    "static/js/main.b4b72ae8.js"
+  ]
+}
